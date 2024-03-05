@@ -1,0 +1,105 @@
+﻿@page
+@model eBookStore.Pages.Member.BookPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Book</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form method="post">
+    <div class="form-group row">
+        <div class="col-md-4">
+            <label asp-for="SearchTitle"></label>
+            <input asp-for="SearchTitle" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="MinPrice"></label>
+            <input asp-for="MinPrice" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="MaxPrice"></label>
+            <input asp-for="MaxPrice" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Publisher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Advance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Royalty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Ytd_sales)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Notes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Published_date)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Book != null)
+        {
+            @foreach (var item in Model.Book)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Publisher.Publisher_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Advance)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Royalty)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ytd_sales)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Notes)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Published_date)
+                    </td>
+                    <td>
+                        <a asp-page="./Details" asp-route-id="@item.Bookid">Details</a> |
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

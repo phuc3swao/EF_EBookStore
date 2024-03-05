@@ -1,0 +1,37 @@
+﻿@using BusinessObject.Models;
+@using Newtonsoft.Json
+@using Microsoft.AspNetCore.Http;
+
+@{
+    var httpContext = Context.Request.HttpContext;
+
+    string userJson = httpContext.Session.GetString("CurrentUser");
+    User currentUser = null;
+    if(userJson != null)
+    {
+       currentUser = JsonConvert.DeserializeObject<User>(userJson);
+    }
+
+}
+<ul class="navbar-nav">
+@if (currentUser != null)
+{
+    <li class="nav-item">
+        <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @currentUser.FirstName @currentUser.LastName</a>
+    </li>
+    <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Auth/Login" asp-route-returnUrl="" method="post"asp-page-handler="logout">
+                <button type="submit" class="nav-link btn btn-link text-dark" >Logout</button>
+        </form>
+    </li>
+}
+else
+{
+    @* <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-page="/Account/Register">Register</a>
+    </li> *@
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-page="/Auth/Login" asp-page-handler="login">Login</a>
+    </li>
+}
+</ul>

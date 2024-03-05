@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eBookStore
+build_property.RootNamespace = eBookStore
+build_property.ProjectDir = E:\FPTU\Year_4_DH_FPT\Semester8\PRN231\Assigment02Solution_StudentCode\eBookStore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\FPTU\Year_4_DH_FPT\Semester8\PRN231\Assigment02Solution_StudentCode\eBookStore
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/AuthorPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXV0aG9yUGFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/AuthorPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXV0aG9yUGFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/AuthorPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXV0aG9yUGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/AuthorPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXV0aG9yUGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/AuthorPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQXV0aG9yUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/BookPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1BhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/BookPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1BhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/BookPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1BhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/BookPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1BhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/BookPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1BhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/PulisherPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHVsaXNoZXJQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/PulisherPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHVsaXNoZXJQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/PulisherPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHVsaXNoZXJQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/PulisherPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHVsaXNoZXJQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Admin/PulisherPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHVsaXNoZXJQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Member/AuthorPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEF1dGhvclBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Member/AuthorPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEF1dGhvclBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Member/BookPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEJvb2tQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Member/BookPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEJvb2tQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Member/PulisherPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXFB1bGlzaGVyUGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Member/PulisherPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXFB1bGlzaGVyUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPTU/Year_4_DH_FPT/Semester8/PRN231/Assigment02Solution_StudentCode/eBookStore/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bmumdqkunt
